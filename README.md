@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @laxmanGhoghol
-- 👀 I’m interested in Machine Learning and Software Developement
-- 🌱 I’m currently learning Full stack web development
-- 💞️ I’m looking to collaborate on Computer vision applications and web applications
+- 👋 Hi, I’m @laxmanGhoghol, I am fullstack developer
+- 👀 I’m interested microservices and blockchain technology.
+- 🌱 I’m learning spring boot and ruby on rails
 - 📫 How to reach me: ghoghollaxman@gmail.com
 
 <!---
