@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @laxmanGhoghol, I am fullstack developer
-- 👀 I’m interested microservices and blockchain technology.
-- 🌱 I’m learning spring boot and ruby on rails
+- 👋 Hi, I’m @laxmanGhoghol, I am fullstack developer with 2+ years of experience
+- My primary programming language is Java and expertise in Spring Boot
+- 👀 I’m interested microservices and Web technology.
+- 🌱 I’m learning about ML
 - 📫 How to reach me: ghoghollaxman@gmail.com
 
 <!---
